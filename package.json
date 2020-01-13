@@ -1,0 +1,22 @@
+{
+  "name": "video-symfony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibaevsw/video-symfony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibaevsw/video-symfony/issues"
+  },
+  "homepage": "https://github.com/shibaevsw/video-symfony#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.28.2"
+  }
+}
